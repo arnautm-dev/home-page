@@ -103,7 +103,7 @@ h1 {
 
 .quick-link img {
     width: 48px;
-    height: 48px;
+    height: fit-content;
 }
 
 .quick-link span {
